@@ -1,0 +1,16 @@
+{
+  "name": "vue-slideout-starter",
+  "version": "1.0.0",
+  "description": "vue menu slide out",
+  "keywords": [
+    "menu",
+    "vue",
+    "component",
+    "vuejs"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "vue-slideout": "latest",
+    "vue": "2.4.4"
+  }
+}
